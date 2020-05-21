@@ -1,6 +1,5 @@
 {
     "type": [ "Extension" ],
-    "spe": "FUZZY.spe",
     "provider": [ "IBM" ],
     "software": [ "SPSS Statistics" ],
     "language": [ "Python 3" ],
